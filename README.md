@@ -33,23 +33,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frekidane&show_icons=true&theme=radical" alt="Fre's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frekidane&theme=radical" alt="Fre's GitHub Streak" />
-</p>
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/frekidane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
-</p>
